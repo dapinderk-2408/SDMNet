@@ -1,5 +1,6 @@
 # SDMNet
 Spatially dilated multi-scale network for object detection for drone aerial imagery
+<img width="617" height="401" alt="image" src="https://github.com/user-attachments/assets/005f5b67-2c96-4b30-87fa-32ee16d43b28" />
 
 
 
